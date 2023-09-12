@@ -22,7 +22,7 @@ int main(){
         }
 
         if (i != LIMIT){
-            printf(", "); /* We do not want to print the comma at the end, as it is there to separate the outputs) */
+            printf(", "); /* We do not want to print the comma at the end, as it is there to separate the outputs */
         }
     }
     return 0;
