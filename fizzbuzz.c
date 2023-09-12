@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    short const LIMIT = 100;
+    short const LIMIT = 100; /* The upper limit number to check to */
     short i;
     for(i=1; i<=LIMIT; i++){
 
